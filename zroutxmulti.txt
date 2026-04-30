@@ -1,0 +1,9 @@
+# profile-title: ☔ZROUTX SUB☔
+# profile-update-interval: 24
+#profile-web-page-url: https://t.me/zroutx
+#support-url: https://t.me/zroutx
+# Date/Time: 2026-04-30 / 14:42 (Moscow)
+# Количество: 2
+# For more info and VPN-configs - visit: t.me/zroutx
+#subscription-userinfo: upload=0; download=0; total=0
+#announce: 🚀 Полностью бесплатные конфиги для обхода ограничений! Заходи в наш телеграм: zroutx 💜
