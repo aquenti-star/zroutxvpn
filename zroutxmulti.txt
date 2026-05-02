@@ -2,11 +2,11 @@
 # profile-update-interval: 24
 # profile-web-page-url: https://t.me/zroutx
 # support-url: https://t.me/zroutx
-# Date/Time: 2026-05-02 / 12:25 (MSK)
-# Количество: 4
-# announce: 🚀 Подписка обновлена! Заходи в наш телеграм: zroutx 💜
+# Date/Time: 2026-05-02 / 12:35 (MSK)
+# Количество: 3
+# For more info and VPN-configs - visit: t.me/zroutx
+# announce: 🚀 Обновлено! Только рабочие конфиги. Заходи в ТГ: zroutx 💜
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%F0%9F%8D%87Telegram%3A%20ZROUTX%F0%9F%8D%87
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B%E2%9A%AA%5D
 vless://96a7e834-632f-4f56-82fe-00ed145f0bba@91.219.227.203:80?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233%20%5B%E2%9A%AA%5D
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tgg.harknmav.fun:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=f69d7af2d5fc5e0c#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%232%20%5B%E2%9A%AA%5D
