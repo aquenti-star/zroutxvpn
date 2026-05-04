@@ -2,11 +2,13 @@
 # profile-update-interval: 24
 # profile-web-page-url: https://t.me/zroutx
 # support-url: https://t.me/zroutx
-# Date/Time: 2026-05-04 / 12:11 (MSK)
-# Количество: 3
+# Date/Time: 2026-05-04 / 16:14 (MSK)
+# Количество: 5
 # For more info and VPN-configs - visit: t.me/zroutx
 # announce: 🚀 Обновлено! Только рабочие конфиги. Заходи в ТГ: zroutx 💜
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%F0%9F%8D%87Telegram%3A%20ZROUTX%F0%9F%8D%87
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=ok.ru#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%E2%9A%AA%5D
 vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=ok.ru#%F0%9F%87%B7%F0%9F%87%BA%20*CIDR%20%5B%E2%9A%AA%5D
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=ok.ru#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%E2%9A%AA%5D
+vless://8afb11cf-e94b-405a-ad55-01d3aed749bb@91.219.227.203:80?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20%2371%20%5B%E2%9A%AA%5D
+vless://8afb11cf-e94b-405a-ad55-01d3aed749bb@109.120.191.233:80?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=chrome&type=tcp&sni=sso.passport.yandex.ru&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20%5B%E2%9A%AA%5D
