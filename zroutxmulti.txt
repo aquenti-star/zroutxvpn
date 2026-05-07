@@ -2,13 +2,13 @@
 # profile-update-interval: 24
 # profile-web-page-url: https://t.me/zroutx
 # support-url: https://t.me/zroutx
-# Date/Time: 2026-05-04 / 16:14 (MSK)
+# Date/Time: 2026-05-07 / 15:39 (MSK)
 # Количество: 5
 # For more info and VPN-configs - visit: t.me/zroutx
 # announce: 🚀 Обновлено! Только рабочие конфиги. Заходи в ТГ: zroutx 💜
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6WnJvdXR4VlBORnJlZQ@https://t.me/zroutx:1337#%F0%9F%8D%87Telegram%3A%20ZROUTX%F0%9F%8D%87
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=ok.ru#%F0%9F%87%B7%F0%9F%87%BA%20*CIDR%20%5B%E2%9A%AA%5D
-vless://75807638-6f19-0bb8-ae08-38492ee85c88@82.202.197.2:52006?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=ok.ru#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%E2%9A%AA%5D
-vless://8afb11cf-e94b-405a-ad55-01d3aed749bb@91.219.227.203:80?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20%2371%20%5B%E2%9A%AA%5D
-vless://8afb11cf-e94b-405a-ad55-01d3aed749bb@109.120.191.233:80?security=reality&encryption=none&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&headerType=none&fp=chrome&type=tcp&sni=sso.passport.yandex.ru&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20%5B%E2%9A%AA%5D
+vless://7fe31e2a-2117-408e-85db-e4b4eef4ea97@151.236.114.211:8443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#%F0%9F%87%B7%F0%9F%87%BA%E2%9A%AA%F0%9F%9A%80%20thx%3A%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vless://ae25bb41-dac8-48f0-89a9-f649459ad6ff@84.201.166.160:443?mode=gun&security=reality&encryption=none&authority=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&fp=qq&spx=%2F8acd03ca09a8b2e4&type=grpc&serviceName=xraygrpc&sni=max.ru&sid=104ddee73f941bc4#%F0%9F%87%B3%F0%9F%87%B1%E2%9A%AA%E2%9C%85%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20LTE
+vless://769d6219-be8b-400d-9dd7-bbec4cca3593@84.201.156.241:443?security=reality&encryption=none&pbk=d33mxO45I-XqQHMnqY4YmyKVbDa0w3iS7HjcS-ZDzh8&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c96afd#%F0%9F%87%B7%F0%9F%87%BA%E2%9A%AA%F0%9F%9A%80%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
+vless://5134a268-75ab-41c1-855a-a6eeb8b69d96@84.201.154.152:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#%F0%9F%87%B7%F0%9F%87%BA%E2%9A%AA%E2%9C%85%20%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%A0%D0%A4
